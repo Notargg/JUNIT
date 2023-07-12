@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+/home/ferrari/ufscar/research/workspaces/teaching/EngenhariaDeSoftware2_1001516_A_202301/.metadata/.plugins/org.eclipse.jdt.core
+281545429.index
+1199446083.index
+1865797976.index
+3651186462.index
+3774709961.index
+42474632.index
+1204042429.index
